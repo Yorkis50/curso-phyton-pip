@@ -1,6 +1,6 @@
 # Game Project 
 
-Para correr el juego debes las siguientes instrucciones en la terminal:
+Para correr el juego debes siguir las instrucciones en la terminal:
 
 ```
 cd game
